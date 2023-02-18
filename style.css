@@ -244,8 +244,8 @@ main {
   font-size: 1.05rem;
   background: radial-gradient(
     circle,
-    rgba(80, 32, 80, 1) 37%,
-    rgba(238, 104, 164, 1) 91%
+    rgba(80, 32, 80, 1) 25%,
+    rgba(242, 68, 153, 1) 99%
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
